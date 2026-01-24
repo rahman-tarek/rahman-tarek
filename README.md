@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tarek2099](https://github.com/Tarek2099)
+- 👨‍💻 All of my projects are available at [https://github.com/rahman-tarek](https://github.com/rahman-tarek)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/tarek2/](https://www.linkedin.com/in/tarek2/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/rahman-tarek/](https://www.linkedin.com/in/rahman-tarek/)
 
 - 💬 Ask me about **C,C++, Pascal, JavaScript, Node, React,styled-component, Redux, Hooks, SCSS, HTML, CSS, Bootstrap, Axios**
 
