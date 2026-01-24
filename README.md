@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm MD Tarek Rahman</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarek2099&label=Profile%20views&color=0e75b6&style=flat" alt="tarek2099" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahman-tarek&label=Profile%20views&color=0e75b6&style=flat" alt="rahman-tarek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarek2099&theme=tokyonight" alt="tarek2099" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahman-tarek&theme=tokyonight" alt="rahman-tarek" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/stktarekrahman" target="blank"><img src="https://img.shields.io/twitter/follow/stktarekrahman?logo=twitter&style=for-the-badge" alt="stktarekrahman" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tarek2099](https://github.com/Tarek2099)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/tarek2/](https://www.linkedin.com/in/tarek2/)
 
-- 💬 Ask me about **JavaScript, React,styled-component, Redux, Hooks, SCSS, HTML, CSS, Bootstrap, Axios**
+- 💬 Ask me about **C,C++, Pascal, JavaScript, Node, React,styled-component, Redux, Hooks, SCSS, HTML, CSS, Bootstrap, Axios**
 
-- 📫 How to reach me **stktarekrahman@gmail.com**
+- 📫 How to reach me **rahmantarek.dev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tarek2/](https://www.linkedin.com/in/tarek2/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rahman-tarek/](https://www.linkedin.com/in/rahman-tarek/)
 
 - ⚡ Fun fact **I fell asleep while coding**
 
