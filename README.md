@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 Skills
-**Languages:** Java, C++, JavaScript, TypeScript  
+**Languages:** C, C++, Java, JavaScript, TypeScript  
 **Backend:** Node.js, Express, Spring Boot  
 **Databases:** MongoDB  
 **Tools:** Git, Linux, Postman, Docker (learning)
