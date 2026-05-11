@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I’m more interested in how software scales than how it looks.**
 
 <h3 align="left">Connect with me:</h3>
-<div style="display: flex; align-items: center; gap: 18px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/rahman-tarek/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
