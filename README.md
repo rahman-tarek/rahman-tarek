@@ -18,6 +18,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 
+---
+
+### Backend & Frameworks
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=for-the-badge&logo=springboot)
+
+---
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
