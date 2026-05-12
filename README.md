@@ -29,9 +29,11 @@
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-black?style=for-the-badge&logo=intellijidea)
 
 ---
 
