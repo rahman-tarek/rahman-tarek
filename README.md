@@ -5,7 +5,7 @@
 - 🌱 Currently learning: Java, C++, System Design, AI/ML
 - 💻 Interested in: Backend Engineering, AI Research, Distributed Systems
 - 🏆 Competitive Programming Enthusiast
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: rahmantarek@gmail.com
 
 ---
 
@@ -15,7 +15,7 @@
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
