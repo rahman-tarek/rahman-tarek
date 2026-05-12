@@ -35,21 +35,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-black?style=for-the-badge&logo=intellijidea)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rahman-tarek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180em"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahman-tarek&layout=compact&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-</p>
 
 ---
 
