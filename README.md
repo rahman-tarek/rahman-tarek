@@ -20,6 +20,16 @@
 
 ---
 
+### Frontend Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+
+---
+
 ### Backend & Frameworks
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
