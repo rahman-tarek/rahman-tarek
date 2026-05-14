@@ -23,7 +23,6 @@
 ### Backend & Frameworks
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=for-the-badge&logo=springboot)
 
 ---
 
